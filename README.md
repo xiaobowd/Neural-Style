@@ -7,6 +7,9 @@ A TensorFlow Project of Neural Style
 - TensorFlow 1.2
 - VGG19
 - CPU i5-6200U(笔记本)
+
+**必须下载该文件http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat**
+
 ## **实现效果**
 
 **我们的原图是这样的：**
